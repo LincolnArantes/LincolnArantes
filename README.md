@@ -44,7 +44,7 @@ Também posso experiência em gerenciamento, criação e manutenção de banco d
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+   <!-- <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td> -->
     <td><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></td>
     <th><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></th>
   </tr>

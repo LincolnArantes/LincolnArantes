@@ -1,6 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LincolnArantes&show_icons=true&theme=transparent)
+# Sobre 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnArantes&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skill
 
@@ -27,22 +26,53 @@
     
   # SO
   
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-    
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-    
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-    
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-    
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   
+  
+  <table border="0">
+<thead>
+  <tr>
+    <th>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></th>
+    <th> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></th>
+    
+   
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></td>
+    <th><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></th>
+  </tr>
+</tbody>
+</table>
+  
+
   
   # IDE
-<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+  
     
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+  <table border="0">
+<thead>
+  <tr>
+    <th><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"></th>
+    <th> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></th>
     
-<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
+   
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
+   
+  </tr>
+</tbody>
+</table>
+  
 
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LincolnArantes&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnArantes&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+  
+

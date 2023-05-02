@@ -28,7 +28,7 @@ Também posso experiência em gerenciamento, criação e manutenção de banco d
 
     
     
-  # SOs
+  # OSs
   
   
   

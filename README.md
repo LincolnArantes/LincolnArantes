@@ -3,7 +3,7 @@
 Sou um programador de softwares apaixonado pelo mundo da computação. <br>
 Estou na área de TI desde 1995 com experiências diversas em diferentes ramos da tecnologia da informação, tais como linguagens  C, PHP, Java Script, Assembly e outras. Acredito que meu desenvolvimento ajuda no desenvolvimento de outras pessoas.  Sou 100% disponível para aprender novos conceitos, vivenciar novos desafios e tornar a vida de outras pessoas melhores com meu trabalho.<br><br>
 Apesar de programar em muitas linguagens atualmente venho cada vez mais se especializando nas linguagens C, PHP e Java Script.
-Também posso experiência em gerenciamento, criação e manutenção de banco de dados relacional Mysql, Mariadb e PostgreSQL.
+Também possuo experiência em gerenciamento, criação e manutenção de banco de dados relacional tais como Mysql, Mariadb e PostgreSQL.
 
 # Skills
 
